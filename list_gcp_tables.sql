@@ -1,5 +1,6 @@
 -- https://cloud.google.com/bigquery/docs/reference/standard-sql/scripting#execute_immediate
 -- https://cloud.google.com/bigquery/docs/information-schema-datasets#schemata_view
+-- List all tables and their respective datasets related to a project in GCP.
 
 BEGIN
 
